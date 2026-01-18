@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.18293196
+
 # The Matrix of the Unnameable
 
 **(Paradox & Reference)**

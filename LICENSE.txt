@@ -1,0 +1,26 @@
+LICENSE - La Matrice des Innommables
+
+© 2026 Jérôme Garidel Official Deposit Reference: INPI e-Soleau DSO2026001939
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0).
+
+You are free to:
+
+Share — copy and redistribute the material in any medium or format.
+
+Adapt — remix, transform, and build upon the material.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit to the author (Jérôme Garidel), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+NonCommercial — You may not use the material for commercial purposes without prior written authorization from the author.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+Important Note:
+
+The methodological framework and associated calculation tools (3-6-9 Matrix, Xₛ Variable) are protected under the national deposit DSO2026001939. Any use not complying with the terms of this license is subject to legal action under Intellectual Property laws.
+
+The full text of the license is available at:
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
